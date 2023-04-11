@@ -15,7 +15,7 @@
  - NodeJs 
 
 
-## Installation 
+## Installation and Example
 1. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
     - Linux, Mac, Windows
         - `npm install athenaa -g`
@@ -27,14 +27,11 @@
 
 2. Open terminal now type  `athenaa`
 
-#### Examples :
-
-    - Linux, Mac, Windows
-        - `npm install athenaa -g`
-    - Github
-        - click [HERE](https://github.com/karthi-the-hacker/athenaa.git) for downloads
-
-    
+3. Example
+    - input
+        - `athenaa -i urls.txt`
+    - output
+        - `athenaa -i urls.txt -o out.txt`
 
 #### Usages 📚 :
 
