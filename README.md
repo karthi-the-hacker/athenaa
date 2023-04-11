@@ -16,7 +16,7 @@
 
 
 ## Installation 
-Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
+1. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
     - Linux, Mac, Windows
         - `npm install athenaa -g`
     - Github
