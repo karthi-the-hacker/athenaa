@@ -1,0 +1,28 @@
+{
+  "name": "athenaa",
+  "version": "1.0.4",
+  "description": "A Bugbounty automation tool for splitting endpoints from recon data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": {
+		"Athenaa": "./index.js",
+		"athenaa": "./index.js"
+	},
+  "author": {
+		"name": "karthikeyan V (karthithehacker)",
+		"email": "contact@karthithehacker.com",
+		"url": "https://karthithehacker.com"
+	},
+  "files": [
+		"index.js",
+		"utils"
+	],
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "username": "^6.0.0",
+    "yargs": "^17.7.1"
+  }
+}
