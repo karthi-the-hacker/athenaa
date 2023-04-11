@@ -29,10 +29,14 @@
 
 ## Port Forwarding
 
- `sudo openvpn --config webin.mobi.ovpn`
+ `$ athena [option]
+
+Usage: index.js [options]
+
+Options:
+  -h, --help     Show help                                             [boolean]
+  -V, --version  Show version number                                   [boolean]
+  -i, --input    <filename> Input file name                           [required]
+  -o, --output   <filename> output file name                          [required]`
     
-It's recommended to run Mobie-Tracker behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
-
-
-
 
