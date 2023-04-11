@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://github.com/karthi-the-hacker/athenaa/raw/main/images/athenaa.png" ><br>
+<img src="https://github.com/karthi-the-hacker/athenaa/raw/main/images/logo.png" ><br>
 
 </p>
 
