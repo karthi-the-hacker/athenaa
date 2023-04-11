@@ -25,19 +25,15 @@
 
 
 
-7. in your browser navigate to `http://<SERVER IP>:1234`
+2. Open terminal now type  `athenaa`
 
-#### Usages 📚 :
+#### Examples :
 
- `$ athena [option]
+    - Linux, Mac, Windows
+        - `npm install athenaa -g`
+    - Github
+        - click [HERE](https://github.com/karthi-the-hacker/athenaa.git) for downloads
 
-Usage: index.js [options]
-
-Options:
-  -h, --help     Show help                                             [boolean]
-  -V, --version  Show version number                                   [boolean]
-  -i, --input    <filename> Input file name                           [required]
-  -o, --output   <filename> output file name                          [required]`
     
 
 #### Usages 📚 :
