@@ -27,7 +27,7 @@
 
 7. in your browser navigate to `http://<SERVER IP>:1234`
 
-## Port Forwarding
+#### Usages 📚 :
 
  `$ athena [option]
 
