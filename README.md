@@ -33,7 +33,7 @@
     - Linux, Mac, Windows
         - `npm install athenaa -g`
     - Github
-        - click [HERE](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) for downloads
+        - click [HERE](https://github.com/karthi-the-hacker/athenaa.git) for downloads
 
 
 
