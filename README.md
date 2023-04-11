@@ -40,3 +40,11 @@ Options:
   -o, --output   <filename> output file name                          [required]`
     
 
+#### commands backend-setup-for-mac🕹️ :
+
+    $ mkdir ~/tools && cd ~/tools
+    $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
+    $ cd Gh0stR3c0n/
+    $ chmod +x *
+    $ nano back-end/config.env
+    $ ./run.bash
