@@ -16,7 +16,7 @@
 
 
 ## Installation 
-1. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
+Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
     - Linux, Mac, Windows
         - `npm install athenaa -g`
     - Github
@@ -40,7 +40,7 @@ Options:
   -o, --output   <filename> output file name                          [required]`
     
 
-#### commands backend-setup-for-mac🕹️ :
+#### Usages 📚 :
 
     $ athena [option]
 
