@@ -3,7 +3,7 @@ Bugbounty automation tool
 
 
 <p align="center">
-<img src="https://github.com/karthi-the-hacker/athenaa/raw/main/images/Athenaa.png" height="60"><br>
+<img src="https://github.com/karthi-the-hacker/athenaa/raw/main/images/Athenaa.png" ><br>
 A Bugbounty automation tool for splitting endpoints from recon data
 </p>
 
