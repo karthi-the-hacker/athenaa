@@ -24,8 +24,8 @@ if( argv.h == true ){
     return; 
 }
 //used to check for valid input data and syntax 
-if(argv.i == null || argv.i == true ){
-    if(argv.input == null || argv.input == true){
+if(argv.l == null || argv.l == true ){
+    if(argv.list == null || argv.list == true){
         help.helpintro();
         return; 
     }
@@ -33,5 +33,6 @@ if(argv.i == null || argv.i == true ){
 }
 
 //program execution part and calling the constructor class 
-new loader.engine(argv.i || argv.input,argv.o || argv.output)
+new loader.engine(argv.l || argv.list,argv.o || argv.output)
+
 
