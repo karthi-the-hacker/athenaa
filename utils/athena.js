@@ -23,8 +23,10 @@ class loader {
             lineReader.eachLine(path, (line, last) => {
             const urlString = line;
             const parsedUrl = url.parse(urlString);
-            const pathArray = parsedUrl.pathname.split('/');
-            pathArray.shift(); 
+            
+            if (parsedUrl.pathname !== null) {
+                const pathArray = parsedUrl.pathname.split('/');
+                pathArray.shift(); 
             const parts = pathArray.map((part, index) => {
                 return parsedUrl.protocol + '//' + parsedUrl.hostname + '/' + pathArray.slice(0, index + 1).join('/') + '/';
             });
@@ -32,7 +34,9 @@ class loader {
             if (last) {
                 resolve(urlParts);
             }
+            }
             });
+        
         });
         }
         readUrls().then((urlParts) => {
