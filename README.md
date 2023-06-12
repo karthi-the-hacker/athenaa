@@ -29,9 +29,9 @@
 
 3. Example
     - input
-        - `athenaa -i urls.txt`
+        - `athenaa -l urls.txt`
     - output
-        - `athenaa -i urls.txt -o out.txt`
+        - `athenaa -l urls.txt -o out.txt`
 
 #### Usages 📚 :
 
@@ -42,5 +42,5 @@
       Options:
         -h, --help     Show help                                             [boolean]
         -V, --version  Show version number                                   [boolean]
-        -i, --input    <filename> Input file name                           [required]
+        -l, --list    <filename> Input file name                           [required]
         -o, --output   <filename> output file name                          [required]
